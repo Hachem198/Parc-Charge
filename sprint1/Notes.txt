@@ -1,0 +1,2 @@
+Sprint 1 : Authentification ( 14 jours ) : 
+User can register , login , forget password logic and connect with google.
